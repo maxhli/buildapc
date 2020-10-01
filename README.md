@@ -2,14 +2,14 @@ My story:
     
        I started my journey in computers with a Gateway computer. The model is an older one, and I was naive with it. 
     I ended up ruining the battery on it since I would game with it with the charger still attached. I then moved into an
-    Acer, which was so slim that it needs an adapter for the VGA and the ethernet cables. As time went on, my Acer slowly
+    Acer, which was so slim that it needs an adapter for the VGA and the Ethernet cables. As time went on, my Acer slowly
     lost more and more space. However, one day I was watching a vlog by Markiplier(YouTube celebrity) and talked about
     putting together his computer. When he mentioned that it was cheaper for a lot more output than buying one off the
     market, I decided to research on parts.
     
        I found a website that is called PCPartPicker (http://www.pcpartpicker.com/) and found out so much from that website
     that I had no idea about! What I found out is that every part correlates to one another: the case with the motherboard
-    withthe power and so on. Once you select the parts, the website will check to see if the parts you selected will be
+    with the power and so on. Once you select the parts, the website will check to see if the parts you selected will be
     compatible with one another. It even goes as far as checking several websites to see which website has the best price,
     and has a graph to tell you if it is the lowest thus far or if the part hasn't been going down at all.
     
@@ -31,17 +31,19 @@ Step 2:  Install the power supply into the case in its proper position.
 
 Step 3:  Install the hard drive into the optical drive location. 
 
-Step 4 (OPTIONAL): Install the cd/dvd drive into the optical drive location. 
+Step 4 (OPTIONAL): Install the cd/dvd drive into the optical drive location.
 
-Step 5:  Install the motherboard where there are bumpers in the case to keep metal from touching the motherboard. 
+Step 5 (Optional): Install the GPU(Graphic card) into the PCI Slot 
 
-Step 6:  Install RAM into the RAM slots on the motherboard. 
+Step 6:  Install the motherboard where there are bumpers in the case to keep metal from touching the motherboard. 
 
-Step 7:  Install the CPU into the specified socket on the motherboard, making sure that the triangled corner matches with the            motherboard. 
+Step 7:  Install RAM into the RAM slots on the motherboard. 
 
-Step 8:  Install heat sink on top of the CPU. Do not forget that if there is thermo-paste with the Heat Sink.
+Step 8:  Install the CPU into the specified socket on the motherboard, making sure that the triangled corner matches with the motherboard. 
 
-Step 9:  Plug power/data cords into their slots.
+Step 9:  Install heat sink on top of the CPU. Do not forget that if there is thermo-paste with the Heat Sink.
+
+Step 10:  Plug power/data cords into their slots.
 
           - SATA cables: these should run from hard drive and cd/dvd drive to the motherboard where the designated SATA ports
           are for data. For power supply, SATA cables run from power supply to the hard drive and cd/dvd drive. 
@@ -55,9 +57,11 @@ Step 9:  Plug power/data cords into their slots.
           --The best thing to do in this step if there is no label on the motherboard to distinguish where each cable goes,
           check the physical manual (if provided) or go online to those manuals to find out which plugs go where.
           
-Step 10:  Close case. Plug power cord into outlet and computer. 
+Step 11:  Check all the computer peripherals by the process called POST (Power On Self Test) 
 
-Step 11:  Press power button, and if all done correctly, computer should turn on with no problems or beeps. 
+Step 12:  Close case. Plug power cord into outlet and computer. 
+
+Step 13:  Press power button, and if all done correctly, computer should turn on with no problems or beeps. 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
